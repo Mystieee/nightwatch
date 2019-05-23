@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="googletests"
+    errors="0" failures="1" hostname="" id="" package="googletests" skipped="0"
+    tests="2" time="9.924" timestamp="">
+  
+    <testcase name="demo test google" classname="googletests" time="2.227" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="part two" classname="googletests" time="7.697" assertions="2">
+
+      <failure message="Testing if element &lt;#main&gt; contains text: &#34;Night Watch&#34; in 1000 ms. - expected [0;32m&#34;Night Watch&#34;[0m but got: [0;31m&#34;Search modes
+AllNewsImagesVideosBooksMore
+Settings
+Tools
+About 1,05,00,000 results (0.37 seconds) 
+
+
+Search Results
+Web results
+Nightwatch.js | Node.js powered End-to-End testing framework
+https://nightwatchjs.org/
+Write efficient end-to-end tests in Node.js and run them against W3C WebDriver.
+What is Nightwatch? · Using Nightwatch · Extending Nightwatch · Expect
+People also ask
+How do I install Nightwatch?
+
+What is Nightwatch framework?
+
+How do I switch from Xpath to CSS selector in Nightwatch?
+
+Feedback
+Web results
+End-to-End Test Automation Using Nightwatch - DZone DevOps
+https://dzone.com/articles/test-automation-using-nightwatch
+May 21, 2018 - Learn to use Nightwatch, an automated testing and continuous integration framework, as an end-to-end browser testing solution. ... Nightwatch is an automated testing and continuous integration framework based on Node.js and Selenium WebDriver. ... Nightwatch uses JavaScript language (Node ...
+GitHub - nightwatchjs/nightwatch: Automated testing and continuous ...
+https://github.com/nightwatchjs/nightwatch
+nightwatch javascript selenium-webdriver coverage nodejs. ... Automated testing framework powered by Node.js and using W3C Webdriver (formerly Selenium). Nightwatch is a complete and integrated solution for end-to-end testing of web applications and websites, and also for Node.js unit ...
+Selenium testing with Nightwatch | BrowserStack
+https://www.browserstack.com/automate/nightwatch
+Your guide to running Selenium Webdriver tests with Nightwatch on BrowserStack.
+E2E Testing with Nightwatch: Part One – Frontend Weekly – Medium
+https://medium.com/front-end.../e2e-testing-with-nightwatch-part-one-309c221b7a98
+Oct 11, 2017 - So what is Nightwatch? Nightwatch is an automated testing framework for web applications and websites, written in Node.js and using the W3C ...
+Browser Automation with Nightwatch and Selenium
+https://www.softwaretestingmaterial.com/browser-automation-with-nightwatch-and-sel...
+Nov 10, 2018 - Nightwatch JS is an automated testing framework for web applications and websites, written in Node.js and using the W3C WebDriver API.
+Testing End-to-End with Nightwatch - InfoQ
+https://www.infoq.com/news/2014/02/nightwatch/
+Feb 17, 2014 - Nightwatch is a recently released acceptance framework based on Node.js that uses Selenium WebDriver API to automate web applications ...
+Nightwatch API
+https://nightwatch-api.netlify.com/
+Nightwatch API is JavaScript (Node.js) programming interface for controlling Nightwatch.js which is an End-to-End (E2E) testing solution for browser based apps ...
+Nightwatch.js Makes Software Test Scripts Fun and Easy | Sauce Labs
+https://saucelabs.com/blog/nightwatchjs-makes-software-test-scripts-fun-and-easy
+Feb 15, 2018 - Nightwatch.js is a Selenium wrapper that provides several out-of-the-box commands and assertions for performing various operations on the ...
+Step: Action
+JavaScript Functional Testing with Nightwatch.js — SitePoint
+https://www.sitepoint.com › ... › Node.js IDEs, Frameworks, Tools &amp; Other Resources
+Aug 10, 2016 - Nightwatch.js describes itself an a Node.js powered end-to-end testing framework. It relies on Selenium, a project aimed at facilitating web ...
+Related search
+Best functional testing tools
+BrowserStack
+Selenium
+Cucumber
+Sauce Labs
+Katalon Studio
+Related search
+top testing frameworks
+View 3+ more
+Appium
+JUnit
+TestNG
+Robot Framework
+Mockito
+Spock
+Jasmine
+Feedback
+Searches related to nightwatch
+nightwatch testing
+nightwatch tutorial for beginners
+nightwatch vs selenium
+nightwatch github
+nightwatch setvalue
+nightwatch installation
+nightwatch selectors
+nightwatch movetoelement
+Page navigation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+Footer links
+India Bellandur, Bengaluru, Karnataka - From your Internet address - Use precise location - Learn more
+HelpSend feedbackPrivacyTerms&#34;[0m">    at Object.part two (/Users/localadmin/mahira_ws/myNWtest/tests/googletests.js:23:17)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+    <failure message="    at Object.part two (/Users/localadmin/mahira_ws/myNWtest/tests/googletests.js:23:17)">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
